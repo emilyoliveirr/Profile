@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Emily Oliveira and I'm a Web Developer student, from Brazil.</p>
+<p align="left">My name is Emily Oliveira and I'm a Web Development student, from Brazil.</p>
 
 ###
 
